@@ -1,0 +1,7 @@
+[project]
+name = "fiqh-py-taharah-water-qullatayn"
+version = "1.0.0"
+description = "Fiqh Al-Taharah Qullatayn Water Volume & Purity Converter (حاسبة المقادير الشرعية للمياه والقلتين والمساحات)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
